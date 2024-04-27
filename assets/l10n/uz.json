@@ -1,0 +1,21 @@
+{
+    "choose_lang": "Tilni tanlang",
+    "choose_one_lang": "Quyidagi tillardan birini tanlang",
+    "continue": "Davom etish",
+    "welcome_back": "Hush kelibsiz!",
+    "wellcome_2": "Sizni ko'rganimizdan xursandmiz😊",
+    "sign_up": "Ro`yxatdan o`tish",
+    "login": "Kirish",
+    "mobile_number": "Telefon raqami",
+    "or": " yoki ",
+    "email": "email",
+    "username": "foydalanuvchi nomi",
+    "password": "Parol",
+    "forgot_password": "Parolni unutdizmi?",
+    "dont_have_acc": "Akkauntiz yoqmi?  ",
+    "google": "Google orqali kirish",    
+    "weve_send_code":"Telefoningizga faollashtirish kodi bilan SMS yubordik",
+    "resend":"qayta jo`natish",
+    "cont":"O`tkazib yuborish",
+    "pass_error": ""
+}

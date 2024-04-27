@@ -1,0 +1,15 @@
+{
+    "change_number": 1,
+    "change_status":"open",
+    "change_start":"date",
+    "change_end":"date",
+    "work":[
+        {
+            "type":"ss",
+            "work_number": 3,
+            "time": "21:18",
+            "price":150000,
+            "count":1
+        }
+        ]
+}

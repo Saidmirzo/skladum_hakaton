@@ -1,0 +1,96 @@
+{
+    "smena_id":null,
+    "sale":{
+        "items": [
+            {
+              "product_id": 0,
+              "price": 2147483647,
+              "amount": 0,
+              "summa": 2147483647
+            },
+            {
+              "product_id": 0,
+              "price": 2147483647,
+              "amount": 0,
+              "summa": 2147483647
+            },
+            {
+              "product_id": 0,
+              "price": 2147483647,
+              "amount": 0,
+              "summa": 2147483647
+            }, 
+            {
+              "product_id": 0,
+              "price": 2147483647,
+              "amount": 0,
+              "summa": 2147483647
+            },
+            {
+              "product_id": 0,
+              "price": 2147483647,
+              "amount": 0,
+              "summa": 2147483647
+            },
+            {
+              "product_id": 0,
+              "price": 2147483647,
+              "amount": 0,
+              "summa": 2147483647
+            },
+            {
+              "product_id": 0,
+              "price": 2147483647,
+              "amount": 0,
+              "summa": 2147483647
+            },
+             {
+              "product_id": 0,
+              "price": 2147483647,
+              "amount": 0,
+              "summa": 2147483647
+            
+            }, {
+              "product_id": 0,
+              "price": 2147483647,
+              "amount": 0,
+              "summa": 2147483647
+           
+            }, {
+              "product_id": 0,
+              "price": 2147483647,
+              "amount": 0,
+              "summa": 2147483647
+            }       ],
+          "discount": 0,
+          "cash": 0,
+          "plastik": 0,
+          "time":123123123,
+          "comment":"",
+          "borrow":{
+              "customer":{
+                  "id":null,
+                  "name":"Alex Martin",
+                  "tel_number":""
+              },
+              "comment":"",
+              "time":12123234
+          }  
+    },
+    "recovery": {
+      "items": [
+        {
+          "amount": 0,
+          "recovery": 0,
+          "product_id": 0
+        }
+      ],
+      "date": 2147483647,
+      "total_summa": 2147483647,
+      "sale": 0
+    },
+    "repayment":{
+      "id":1,
+      "amount":250000
+    }    
+}
